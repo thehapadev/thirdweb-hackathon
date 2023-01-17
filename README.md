@@ -1,2 +1,3 @@
 # thirdweb-hackathon
-Ready Player Game Hackathon Jan '23
+Ready Player Game Hackathon Jan '23 
+👾
